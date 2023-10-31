@@ -32,5 +32,4 @@ test('NewBoxForm component updates input values and submits the form', () => {
 
   // Test form submission
   fireEvent.click(createButton);
-  // Add further tests here based on your application logic
 });
